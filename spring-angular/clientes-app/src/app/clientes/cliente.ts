@@ -4,6 +4,6 @@ export class Cliente {
   nombre:string;
   apellido:string;
   createAt:String;
-  emal:string;
+  email:string;
 
 }
